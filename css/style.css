@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+#main {
+    text-align: center;
+    background-color: lightgray;
+}
+
+#title {
+    padding: 30px;
+}
+
+.cap {
+    padding: 20px;
+}
+
+#img-div {
+    background-color: white;
+    padding-bottom: 18px;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 18px;
+}
+
+#tribute-div {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#tribute-info {
+    padding: 40px 0;
+}
+
+li {
+    padding: 10px;
+    text-align: left;
+}
+
+blockquote {
+    width: 40%;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: left;
+    line-height: 25px;
+}
+
+#footer {
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: larger;
+}
